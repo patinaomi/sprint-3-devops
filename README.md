@@ -8,18 +8,22 @@
 
 1. [Sobre o Projeto](#sobre-o-projeto)
 2. [Arquitetura da Solução](#arquitetura-da-solução)
-3. [Como Rodar o Projeto](#como-rodar-o-projeto)
-4. [Pré-requisitos](#pré-requisitos)
-5. [Modelo Relacional (DER)](#modelo-relacional-der)
-6. [Diagrama de Classes](#diagrama-de-classes)
-7. [Documentação da API](#documentação-da-api)
-8. [Video](#video)
+3. 
+4. [Como Rodar o Projeto](#como-rodar-o-projeto)
+5. [Pré-requisitos](#pré-requisitos)
+6. [Modelo Relacional (DER)](#modelo-relacional-der)
+7. [Diagrama de Classes](#diagrama-de-classes)
+8. [Documentação da API](#documentação-da-api)
+9. [Video](#video)
 
 ---
 
 ## Sobre o Projeto
 
 Este projeto consiste em uma aplicação de gerenciamento para uma clínica odontológica. Ele permite que dentistas, pacientes e clínicas gerenciem consultas, feedbacks, sinistros, formulários detalhados e muito mais. A aplicação utiliza tecnologias como Java, Spring Boot, e um banco de dados relacional para facilitar o gerenciamento eficiente das operações diárias da clínica.
+
+## Arquitetura da Solução
+![Arquitetura da Solução](Diagrama%20sem%20nome.drawio.png)
 
 **Funcionalidades principais:**
 - Cadastro de pacientes, dentistas e clínicas.
