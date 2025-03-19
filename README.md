@@ -8,7 +8,7 @@
 
 1. [Sobre o Projeto](#sobre-o-projeto)
 2. [Arquitetura da Solução](#arquitetura-da-solução)
-3. 
+3. [Funcionalidades Principais](#funcionalidades=principais)
 4. [Como Rodar o Projeto](#como-rodar-o-projeto)
 5. [Pré-requisitos](#pré-requisitos)
 6. [Modelo Relacional (DER)](#modelo-relacional-der)
@@ -25,7 +25,7 @@ Este projeto consiste em uma aplicação de gerenciamento para uma clínica odon
 ## Arquitetura da Solução
 ![Arquitetura da Solução](Diagrama%20sem%20nome.drawio.png)
 
-**Funcionalidades principais:**
+**Funcionalidades principais**
 - Cadastro de pacientes, dentistas e clínicas.
 - Marcação e controle de consultas.
 - Gerenciamento de formulários detalhados de pacientes.
