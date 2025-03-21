@@ -148,7 +148,7 @@ Além disso, o projeto conta com um arquivo de exportação do Postman contendo 
 
 
 ## Video
-Também disponibilizamos um vídeo no YouTube demonstrando nossa solução e explicando as principais funcionalidades do projeto. Você pode assisti-lo através do seguinte link: [Link do Video no Youtube](https://youtu.be/4rk6KTjp8mM)
+Também disponibilizamos um vídeo no YouTube demonstrando nossa solução e explicando as principais funcionalidades do projeto. Você pode assisti-lo através do seguinte link: [Link do Video no Youtube](https://youtu.be/XrRJLczRDN4)
 
 ## 🧑‍🤝‍🧑 Equipe
 
