@@ -33,7 +33,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: java-app
-          path: 'challenge/target/*.jar'  # 🚀 Caminho corrigido para salvar o JAR corretamente
+          path: 'challenge/target/*.jar'
 
   deploy:
     runs-on: windows-latest
@@ -50,7 +50,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: java-app
-          path: './'  # 🚀 Garante que o JAR será salvo na raiz do runner
+          path: './'
 
       - name: Login to Azure
         uses: azure/login@v2
@@ -64,4 +64,4 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: 'delfos-machine'
-          package: '*.jar'  # 🚀 Agora busca o JAR corretamente
+          package: '*.jar'
